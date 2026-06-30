@@ -1,8 +1,4 @@
-# Abaikan semua file di folder ini
+# Bersihkan aturan conflict, pakai aturan ini saja:
 *
-
-# Pengecualian: JANGAN abaikan folder .git dan file .gitignore
 !.gitignore
-
-# Pengecualian: JANGAN abaikan file source code Rust (.rs)
 !*.rs
